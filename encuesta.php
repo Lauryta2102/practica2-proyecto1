@@ -110,7 +110,7 @@
 <div class="container mt-5">
   <h1 class="mb-4"><?php echo "Docente: " . $apellidoDoc . ", " . $nombreDoc;?></h1>
   <h2 class="mb-4"><?php echo "Espacio Curricular: " . $nombreEsp_curr;?></h2>
-  <p clas="mb-4"><i>La presente encuesta es de carácter obligatorio y anónimo, según lo estipulado por el Honorable Consejo Superior (HCS) de la Universidad Nacional de Córdoba (UNC). Su respuesta es importante y necesaria para optimizar la calidad de la tarea docente en esta Facultad. MUCHAS GRACIAS</i></p>
+  <p class="mb-4"><i>La presente encuesta es de carácter obligatorio y anónimo, según lo estipulado por el Honorable Consejo Superior (HCS) de la Universidad Nacional de Córdoba (UNC). Su respuesta es importante y necesaria para optimizar la calidad de la tarea docente en esta Facultad. MUCHAS GRACIAS</i></p>
   
   <!-- Condición de cursado -->
   <form id="form" action="agregar_respuesta.php" method="post">

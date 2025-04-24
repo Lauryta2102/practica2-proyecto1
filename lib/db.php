@@ -2,8 +2,8 @@
 class DB{
 	private $con;
 	private $dbhost="localhost";
-	private $dbuser="csnweb";
-	private $dbpass="Eduse.001";
+	private $dbuser="root";
+	private $dbpass="";
 	private $dbname="encuesta";
 	
 	function __construct(){
